@@ -1,6 +1,10 @@
 from aiogram import Dispatcher, Bot, executor
 import asyncio
 
+# BOT = @korzina_primer_bot
+# BOT = @korzina_primer_bot
+# BOT = @korzina_primer_bot
+
 from config import BOT_TOKEN
 
 loop = asyncio.new_event_loop()
